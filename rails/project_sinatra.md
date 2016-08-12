@@ -30,6 +30,7 @@ Revisit the ceasar cipher ruby script that you created during [Ruby Building Blo
 * J-kaizen's solution [github](https://github.com/J-kaizen/TheOdinProject/tree/master/Rails/sinatra)
 * AaronGerry's solution [github](https://github.com/AaronGerry/web_guesser) / [see it on the web](https://hidden-taiga-21991.herokuapp.com/)
 * chrisnorwood's solution [github](https://github.com/chrisnorwood/caesar-web) / [see it on the web](https://sinatra-caesar-cipher.herokuapp.com/)
+* Diego V.'s solution [github](https://github.com/Dieblax/caesar_cipher_sinatra)/[see it on the web](https://caesars-encryption.herokuapp.com/)
 
 ## Project 2: Another Web-Game
 
